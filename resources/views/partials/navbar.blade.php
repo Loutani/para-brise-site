@@ -1,6 +1,6 @@
 <nav class="navbar">
     <div class="navbar-logo">
-        <img src="navbar-logo-image" alt="">
+        <img class="navbar-logo-image" src="{{asset('images/company_logo.webp')}}" alt="company logo image">
     </div>
     <div class="navbar-items">
         <ul>
